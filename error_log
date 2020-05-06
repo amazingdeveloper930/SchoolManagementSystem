@@ -1,0 +1,3 @@
+[22-Oct-2018 22:57:33 America/Chicago] PHP Fatal error:  Call to a member function getAppName() on null in /home/admin786/public_html/smart/application/views/errors/error_message.php on line 7
+[22-Oct-2018 22:57:42 America/Chicago] PHP Fatal error:  Call to a member function getAppName() on null in /home/admin786/public_html/smart/application/views/errors/error_message.php on line 7
+[22-Oct-2018 22:59:14 America/Chicago] PHP Fatal error:  Call to a member function getAppName() on null in /home/admin786/public_html/smart/application/views/errors/error_message.php on line 7
